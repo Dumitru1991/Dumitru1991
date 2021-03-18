@@ -1,5 +1,4 @@
 ### Hello there 👋
-##
 I'm Dumitru from Romania and I would like to introduce myself as being a hardworking person and always interested in making a good work. I'm learning to become a software engineering and to be able to make great work with my knowledge.
 ##
 ## Skills 💻:
