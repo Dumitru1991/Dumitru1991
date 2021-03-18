@@ -18,4 +18,4 @@ I'm Dumitru from Romania and I would like to introduce myself as being a hardwor
 
 ## Contact ☎️:
 <a ref="https://dumitru1991.github.io/MyResume_PersonalPortofolio/#home" target="_blank" alt="website logo" width="100px"/>
->span style="text-decoration: underline; color: #F85325; font-weight: bold;">Website</span></a>
+<span style="text-decoration: underline; color: #F85325; font-weight: bold;">Website</span></a>
