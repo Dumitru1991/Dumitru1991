@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm Dumitru from Romania and I would like to introduce myself as being a hardworking person and always interested in making a good work. I'm learning to become a software engineering and to be able to make great work with my knowledge.
+I'm Dumitru from Romania and I would like to introduce myself as being a hardworking person and always interested in making a good work. I'm learning to become a software engineer and to be able to make great work with my knowledge.
 
 ## Skills 💻:
 - Frontend web development: HTML5, CSS3, JS;
@@ -16,3 +16,6 @@ I'm Dumitru from Romania and I would like to introduce myself as being a hardwor
 - 👯 I’m looking to collaborate on C#/.NET projects in my free time
 - ⚡ Fun fact: Programmers will start the count from zero, not one.
 
+## Contact ☎️:
+<a ref="https://dumitru1991.github.io/MyResume_PersonalPortofolio/#home" target="_blank" alt="website logo" width="100px"/>
+>span style="text-decoration: underline; color: #F85325; font-weight: bold;">Website</span></a>
