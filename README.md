@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-### Todoran Dumitru
+I'm Dumitru from Romania and I would like to introduce myself as being a hardworking person and always interested in making a good work. I'm learning to become a software engineering and to be able to make great work with my knowledge.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on fdvbbdf
 - 🌱 I’m currently learning ...
