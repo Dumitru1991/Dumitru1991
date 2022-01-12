@@ -12,8 +12,6 @@ I'm Dumitru from Romania and I would like to introduce myself as being a hardwor
 
 ## About me 🎓:
 - 🔭 I’m currently working on becoming a software engineer
-- 🌱 I’m currently learning C# and .NET
-- 👯 I’m looking to collaborate on C#/.NET projects in my free time
 - ⚡ Fun fact: Programmers will start the count from zero, not one.
 
 ## Contact ☎️:
