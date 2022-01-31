@@ -3,12 +3,12 @@ I'm Dumitru from Romania and I would like to introduce myself as being a hardwor
 
 ## Skills 💻:
 - Frontend web development: HTML5, CSS3, JS;
-- Web Development Frameworks: Laravel, Bootstrap4;
+- Web Development Frameworks: Bootstrap4;
 - Backend development: PHP;
 - Database Services: MySQL;
 - Basic game development: Unity3D, Spine2D;
 - Web browsers: Chrome, Opera, Firefox, Safari;
-- Using a variety of IDE's: Visual Studio, VS Code, Notepad++, CodeBlocks;
+- Using a variety of IDE's: Visual Studio, VS Code, Notepad++;
 
 ## About me 🎓:
 - 🔭 I’m currently working on becoming a software engineer
