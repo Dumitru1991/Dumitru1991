@@ -1,17 +1,16 @@
 ### Hello there 👋
-I'm Dumitru from Romania and I would like to introduce myself as being a hardworking person and always interested in making a good work. I'm learning to become a software engineer and to be able to make great work with my knowledge.
+I'm Dumitru from Romania and I would like to introduce myself as being a hardworking person and always interested in making a good work.
 
 ## Skills 💻:
-- Frontend web development: HTML5, CSS3, JS;
+- Frontend web development🌈: HTML5, CSS3, JS;
 - Web Development Frameworks: Bootstrap4;
-- Backend development: PHP;
+- Backend development🧑‍🔧: PHP;
 - Database Services: MySQL;
 - Basic game development: Unity3D, Spine2D;
-- Web browsers: Chrome, Opera, Firefox, Safari;
+- Web browsers🌐: Chrome, Opera, Firefox, Safari;
 - Using a variety of IDE's: Visual Studio, VS Code, Notepad++;
 
 ## About me 🎓:
-- 🔭 I’m currently working on becoming a software engineer
 - ⚡ Fun fact: Programmers will start the count from zero, not one.
 
 ## Contact ☎️:
