@@ -1,5 +1,6 @@
 ### Hello there 👋
-I'm Dumitru from Romania and I would like to introduce myself as being a hardworking person and always interested in making a good work.
+
+My name is Dumitru and my role as a QA Automation Engineer is to design automated tests to validate the functionality of web and mobile applications. My job is to create the initial test designs, write the scripts, install the automation testing protocols, and report the results. I am a Test Engineer with a demonstrated history of working in the IT industry with a bachelor's degree in Computer Engineering at "Lucian Blaga" University of Sibiu.
 
 ## Skills 💻:
 - Frontend web development🌈: HTML5, CSS3, JS;
