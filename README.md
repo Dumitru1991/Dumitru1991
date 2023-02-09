@@ -7,7 +7,7 @@ My name is Dumitru and I'm a QA Automation Engineer:briefcase:
 - 💻 DB Knowledge：MySQL;
 - 👯 Front-end technologies: HTML5, CSS3, JS;
 - 🔭 Back-end technologies: PHP, JAVA;
-- 🛠️ Tools XAMPP, JIRA, POWERSHELL, POSTMAN, MAVEN, CUCUMBER;
+- 🛠️ Tools: XAMPP, JIRA, POWERSHELL, POSTMAN, MAVEN, CUCUMBER, SELENIUM;
 - :soccer: Basic game development: Unity3D, Spine2D, Blender;
 
 ## QA Skills :dark_sunglasses::
