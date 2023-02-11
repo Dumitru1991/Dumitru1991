@@ -7,19 +7,19 @@ My name is Dumitru and I'm a QA Automation Engineer:briefcase:
 - 💻 DB Knowledge：MySQL;
 - 👯 Front-end technologies: HTML5, CSS3, JS;
 - 🔭 Back-end technologies: PHP, JAVA;
+- :bell: Frameworks: Laravel, Bootstrap4, Selenium(web driver);
 - 🛠️ Tools: XAMPP, JIRA, POWERSHELL, POSTMAN, MAVEN, CUCUMBER, SELENIUM;
 - :soccer: Basic game development: Unity3D, Spine2D, Blender;
+- :white_check_mark: Using a variety of IDE's: Visual Studio, VS Code, Notepad++, CodeBlocks, IntelliJ;
 
 ## QA Skills :dark_sunglasses::
 
 - Design, develop and execute automation scripts;
 - Strong knowledge of software QA methodologies, tools and processes;
-- Frameworks: Laravel, Bootstrap4, Selenium(web driver);
 - Create detailed, comprehensive and well-structured test plans and test cases;
 - Experience working in an Agile/Scrum process;
-- Software installation for hardware (GPU drivers,CPU monitoring Tools);
+- Software installation and testing for hardware (GPU drivers,CPU monitoring Tools);
 - Good understanding of GPU benchmark (3D Mark, Heaven, Cinebench);
-- Using a variety of IDE's: Visual Studio, VS Code, Notepad++, CodeBlocks, IntelliJ;
 - Web browsers: Chrome, Opera, Firefox, Safari;
 
 
