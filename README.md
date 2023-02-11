@@ -16,11 +16,14 @@ My name is Dumitru and I'm a QA Automation Engineer:briefcase:
 
 - Design, develop and execute automation scripts;
 - Strong knowledge of software QA methodologies, tools and processes;
-- Create detailed, comprehensive and well-structured test plans and test cases;
+- Responsible for creating Test Scenarios and Test cases with clearly defined expected
+results and test data;
+- Preparing test data and preconditions;
+- Execute and monitor test cases / test scenarios;
+- Reporting and monitoring identified defects and communicate with development
+team to explain and help resolve defects;
 - Experience working in an Agile/Scrum process;
-- Software installation and testing for hardware (GPU drivers,CPU monitoring Tools);
-- Good understanding of GPU benchmark (3D Mark, Heaven, Cinebench);
-- Web browsers: Chrome, Opera, Firefox, Safari;
+- Good understanding of GPU testing benchmark (3D Mark, Heaven, Cinebench);
 
 
 
